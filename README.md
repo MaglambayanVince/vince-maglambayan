@@ -44,7 +44,7 @@ A conceptual flood monitoring prototype using water-level sensors, an ESP32-S3, 
 ## 🤝 Connect With Me
 
 - LinkedIn: [www.linkedin.com/in/vince-maglambayan].
-- GitHub: [vince-maglambayan (MaglambayanVince)].
+- GitHub: [https://github.com/MaglambayanVince?utm_source=chatgpt.com].
 
 ---
 
